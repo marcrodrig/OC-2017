@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1508964420 source:/home/alumno/Escritorio/Compartido/PR-1/evaluador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trie.h"
+
+1506958302 /home/alumno/Escritorio/Compartido/PR-1/trie.h
+	"lista_ordenada.h"
+
+1506301481 /home/alumno/Escritorio/Compartido/PR-1/lista_ordenada.h
+	"lista.h"
+
+1506301481 /home/alumno/Escritorio/Compartido/PR-1/lista.h
+
+1508964526 source:/home/alumno/Escritorio/Compartido/PR-1/lista.c
+	<stdlib.h>
+	"lista.h"
+
